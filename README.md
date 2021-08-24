@@ -10,3 +10,4 @@ All hotkeys can be reassigned in the game settings.
 |---|---|
 |   Pillage / Coastal raid  |   SHIFT+P |
 |   Upgrade Unit            |   U       |
+|   Promote Unit            |   SHIFT+U |
