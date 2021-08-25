@@ -5,9 +5,9 @@
     <Name>Extra Hotkeys</Name>
     <Guid>4a62f0dc-f900-4fd5-81b4-7f98b0fbda41</Guid>
     <ProjectGuid>2988ce56-3309-4935-99f7-0764f78b6895</ProjectGuid>
-    <ModVersion>1</ModVersion>
-    <Teaser>This mod adds some new hotkeys for actions like "Pillage".</Teaser>
-    <Description>This mod adds some new hotkeys for actions like "Pillage".</Description>
+    <ModVersion>2</ModVersion>
+    <Teaser>This mod adds some new hotkeys</Teaser>
+    <Description>This simple mod for Civilization 6 adds hotkeys for actions: Pillage/Coastal raid, Upgrade Unit, Promote Unit, Form Corps, Form Army, Create/Exit Escort Formation, Activate Great Person.</Description>
     <Authors>CaliforniaMountainSnake</Authors>
     <SpecialThanks>https://www.dropbox.com/s/mx4h1unru1d94sc/CIVILIZATION%206%20MODDING%20GUIDE.pdf?dl=0</SpecialThanks>
     <AffectsSavedGames>false</AffectsSavedGames>

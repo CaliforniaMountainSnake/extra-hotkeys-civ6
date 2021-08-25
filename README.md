@@ -6,8 +6,12 @@ This mod does not affect saved games (you can use it with old saves)!
 All hotkeys can be reassigned in the game settings.
 
 ## New hotkeys:
-|   Action                  |   Hotkey  |
+|   Action                          |   Hotkey          |
 |---|---|
-|   Pillage / Coastal raid  |   SHIFT+P |
-|   Upgrade Unit            |   U       |
-|   Promote Unit            |   SHIFT+U |
+|   Pillage / Coastal raid          |   SHIFT+P         |
+|   Upgrade Unit                    |   U               |
+|   Promote Unit                    |   SHIFT+U         |
+|   Form Corps                      |   SHIFT+F         |
+|   Form Army                       |   CTRL+SHIFT+F    |
+|   Create/Exit Escort Formation    |   SHIFT+E         |
+|   Activate Great Person           |   SHIFT+G         |
