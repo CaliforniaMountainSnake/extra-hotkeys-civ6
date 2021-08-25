@@ -1,0 +1,44 @@
+This simple mod for Civilization 6 adds some new hotkeys.
+This mod does not affect saved games (you can use it with old saves)!
+All hotkeys can be reassigned in the game settings.
+
+New hotkeys:
+[table]
+    [tr]
+        [th]Action[/th]
+        [th]Hotkey[/th]
+    [/tr]
+    [tr]
+        [td]Pillage / Coastal raid[/td]
+        [td]SHIFT+P[/td]
+    [/tr]
+    [tr]
+        [td]Upgrade Unit[/td]
+        [td]U[/td]
+    [/tr]
+    [tr]
+        [td]Promote Unit[/td]
+        [td]SHIFT+U[/td]
+    [/tr]
+    [tr]
+        [td]Form Corps[/td]
+        [td]SHIFT+F[/td]
+    [/tr]
+    [tr]
+        [td]Form Army[/td]
+        [td]CTRL+SHIFT+F[/td]
+    [/tr]
+    [tr]
+        [td]Create/Exit Escort Formation[/td]
+        [td]SHIFT+E[/td]
+    [/tr]
+    [tr]
+        [td]Activate Great Person[/td]
+        [td]SHIFT+G[/td]
+    [/tr]
+[/table]
+
+If you need a hotkey for some action, let me know in the comments, I'll try to add it when I have time.
+
+Source code:
+https://github.com/CaliforniaMountainSnake/extra-hotkeys-civ6
