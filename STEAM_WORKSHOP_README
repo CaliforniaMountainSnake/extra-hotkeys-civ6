@@ -40,5 +40,9 @@ New hotkeys:
 
 If you need a hotkey for some action, let me know in the comments, I'll try to add it when I have time.
 
+[b]If you have any errors:[/b]
+1. Please, try to reproduce the bug [b]multiple times[/b] and find out under what conditions the bug appears.
+2. Provide the content of the [i]%USERPROFILE%\Documents\My Games\Sid Meier's Civilization VI\Logs\Database.log[/i] file in the comments.
+
 Source code:
 https://github.com/CaliforniaMountainSnake/extra-hotkeys-civ6
