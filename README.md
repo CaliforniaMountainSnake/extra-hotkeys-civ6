@@ -12,13 +12,14 @@ All hotkeys can be reassigned in the game settings.
 |   Pillage Road / Repair Road / Make Trade Route   |   CTRL+SHIFT+P    |
 |   Re-Base / Transfer to Another City              |   SHIFT+R         |
 |   Create/Exit Escort Formation                    |   SHIFT+E         |
-|   Upgrade Unit                                    |   U               |
+|   Upgrade Unit / Activate Great Person            |   U               |
 |   Promote Unit                                    |   SHIFT+U         |
 |   Form Corps                                      |   SHIFT+F         |
 |   Form Army                                       |   CTRL+SHIFT+F    |
-|   Activate Great Person                           |   SHIFT+G         |
 |   Cancel                                          |   SHIFT+C         |
 |   Wake Up                                         |   SHIFT+W         |
+
+Extra bonus: You can heal ships using the default "H" hotkey.
 
 ## Installation:
 This mod can be installed directly from [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2583812617).

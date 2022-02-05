@@ -25,7 +25,7 @@ New hotkeys:
         [td]SHIFT+E[/td]
     [/tr]
     [tr]
-        [td]Upgrade Unit[/td]
+        [td]Upgrade Unit / Activate Great Person[/td]
         [td]U[/td]
     [/tr]
     [tr]
@@ -41,10 +41,6 @@ New hotkeys:
         [td]CTRL+SHIFT+F[/td]
     [/tr]
     [tr]
-        [td]Activate Great Person[/td]
-        [td]SHIFT+G[/td]
-    [/tr]
-    [tr]
         [td]Cancel[/td]
         [td]SHIFT+C[/td]
     [/tr]
@@ -53,6 +49,8 @@ New hotkeys:
         [td]SHIFT+W[/td]
     [/tr]
 [/table]
+
+* Extra bonus: You can heal ships using the default "H" hotkey.
 
 If you need a hotkey for some action, let me know in the comments, I'll try to add it when I have time.
 And let me know if you have any ideas what other actions can be combined with [b] existing [/b] hotkeys.
